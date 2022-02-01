@@ -1,5 +1,5 @@
 //
-//  CircleImage.swift
+//  RectangleImage.swift
 //  Landmarks
 //
 //  Created by Sam Lai on 2022/1/25.
@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct CircleImage: View {
+struct RectangleImage: View {
     var body: some View {
         Image("turtlerock")
             .clipShape(Rectangle())
@@ -18,6 +18,6 @@ struct CircleImage: View {
 
 struct CircleImage_Previews: PreviewProvider {
     static var previews: some View {
-        CircleImage()
+        RectangleImage()
     }
 }

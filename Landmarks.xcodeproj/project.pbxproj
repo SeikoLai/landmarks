@@ -11,7 +11,7 @@
 		04F021C627A0494C00825939 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04F021C527A0494C00825939 /* ContentView.swift */; };
 		04F021C827A0494E00825939 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04F021C727A0494E00825939 /* Assets.xcassets */; };
 		04F021CB27A0494E00825939 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04F021CA27A0494E00825939 /* Preview Assets.xcassets */; };
-		04F021D227A04D5500825939 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04F021D127A04D5500825939 /* CircleImage.swift */; };
+		04F021D227A04D5500825939 /* RectangleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04F021D127A04D5500825939 /* RectangleImage.swift */; };
 		04F021D427A04E4700825939 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04F021D327A04E4700825939 /* MapView.swift */; };
 /* End PBXBuildFile section */
 
@@ -21,7 +21,7 @@
 		04F021C527A0494C00825939 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		04F021C727A0494E00825939 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04F021CA27A0494E00825939 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		04F021D127A04D5500825939 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		04F021D127A04D5500825939 /* RectangleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RectangleImage.swift; sourceTree = "<group>"; };
 		04F021D327A04E4700825939 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -57,7 +57,7 @@
 			children = (
 				04F021C327A0494C00825939 /* LandmarksApp.swift */,
 				04F021C527A0494C00825939 /* ContentView.swift */,
-				04F021D127A04D5500825939 /* CircleImage.swift */,
+				04F021D127A04D5500825939 /* RectangleImage.swift */,
 				04F021D327A04E4700825939 /* MapView.swift */,
 				04F021C727A0494E00825939 /* Assets.xcassets */,
 				04F021C927A0494E00825939 /* Preview Content */,
@@ -146,7 +146,7 @@
 				04F021C627A0494C00825939 /* ContentView.swift in Sources */,
 				04F021D427A04E4700825939 /* MapView.swift in Sources */,
 				04F021C427A0494C00825939 /* LandmarksApp.swift in Sources */,
-				04F021D227A04D5500825939 /* CircleImage.swift in Sources */,
+				04F021D227A04D5500825939 /* RectangleImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
