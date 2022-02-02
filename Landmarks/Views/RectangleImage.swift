@@ -11,8 +11,8 @@ struct RectangleImage: View {
     var body: some View {
         Image("turtlerock")
             .clipShape(Rectangle())
-            .overlay(Rectangle().stroke(Color.white, lineWidth: 10))
-            .shadow(radius: 10)
+            .overlay(Rectangle().stroke(Color.white, lineWidth: 4))
+            .shadow(radius: 7)
     }
 }
 
